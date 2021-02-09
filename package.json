@@ -1,0 +1,20 @@
+{
+  "name": "my-vue-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "aws-amplify": "^3.3.17",
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "@rollup/plugin-node-resolve": "^11.1.1",
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.0-beta.65"
+  }
+}
